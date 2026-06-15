@@ -116,61 +116,7 @@ src/
 
 ---
 
-## 📸 Screenshots
 
-### Dashboard
-
-(Add Screenshot Here)
-
-### Ambulance Supply List
-
-(Add Screenshot Here)
-
-### Call Priority Queue
-
-(Add Screenshot Here)
-
-### Patient Finder
-
-(Add Screenshot Here)
-
-### Incident Risk Sorter
-
-(Add Screenshot Here)
-
-### Traffic Hub
-
-(Add Screenshot Here)
-
-### Route Planner
-
-(Add Screenshot Here)
-
-### Route Editor
-
-(Add Screenshot Here)
-
-### Hospital Bed Finder
-
-(Add Screenshot Here)
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-git clone YOUR_GITHUB_REPOSITORY_LINK
-
-Install dependencies:
-
-npm install
-
-Run the project:
-
-npm run dev
-
----
 
 ## 🌐 Live Demo
 
